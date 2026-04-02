@@ -1,3 +1,4 @@
 {
-  "about": "this is a testing %s about %f page %d string"
+  "about": "this is a testing %s about %f page %d string",
+  "about.subheading": "I don't know"
 }
