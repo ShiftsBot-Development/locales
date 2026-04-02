@@ -1,1 +1,3 @@
-[]
+{
+  "about": "this is a testing %s about %f page %d string"
+}
